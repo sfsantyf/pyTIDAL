@@ -12,7 +12,7 @@ This .py script can be used for this functions based in TIDAL:
 
 1. You should edit "main.py".
 2. This API requires access to an account to be able to work with its functions, we will prepare this in the next step.
-3.. In the first lines you can see a couple of variables with the name of **"id"** and **"password"**, you must insert in "id" the email of your TIDAL account and in "password", the password of your TIDAL account. _(Sorry for this huge privacy failure, it is a matter of this API works, you can read the source https://github.com/tamland/python-tidal)_
+3. In the first lines you can see a couple of variables with the name of **"id"** and **"password"**, you must insert in "id" the email of your TIDAL account and in "password", the password of your TIDAL account. _(Sorry for this huge privacy failure, it is a matter of this API works, you can read the source https://github.com/tamland/python-tidal)_
 
 **HOW TO USE?**
 
